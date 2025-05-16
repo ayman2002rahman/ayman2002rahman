@@ -8,7 +8,7 @@ I'm Ayman! I am a passionate student with experience in developing full scale ap
 
 <!-- Your badges -->
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
+[![Linkedin](https://img.shields.io/badge/-ayman2002rahman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayman2002rahman)
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
 [![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma)
@@ -17,11 +17,11 @@ I'm Ayman! I am a passionate student with experience in developing full scale ap
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+![](https://komarev.com/ghpvc/?username=ayman2002rahman&style=flat)
+[![Github](https://img.shields.io/badge/-ayman2002rahman-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ayman2002rahman)
 
 <!-- Sample Dev class image -->
-<img src="/aymanRahmanProfile.jpg" alt="dev_object" align="right" width="500" />
+<img src="/aymanRahmanProfile.png" alt="dev_object" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning UX best practice and principals
@@ -34,11 +34,11 @@ I was born and raised in St. Louis. I attend the Missouri University of Science 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
+  <a href="https://gitstats.me/ayman2002rahman">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=ayman2002rahman&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman2002rahman&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
