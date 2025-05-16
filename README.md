@@ -21,7 +21,7 @@ I'm Ayman! I am a passionate student with experience in developing full scale ap
 [![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- Sample Dev class image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
+<img src="/aymanRahmanProfile.jpg" alt="dev_object" align="right" width="500" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning UX best practice and principals
