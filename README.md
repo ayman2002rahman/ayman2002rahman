@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayman%20Rahman&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=&descAlignY=51)
 
@@ -127,7 +127,7 @@ fun_fact: "I once built an entire music platform in a weekend"
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayman2002rahman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayman2002rahman&theme=radical&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=ayman2002rahman&theme=radical&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman2002rahman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF" alt="Top Languages" height="180"/>
 
@@ -166,4 +166,3 @@ fun_fact: "I once built an entire music platform in a weekend"
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
-]]>
