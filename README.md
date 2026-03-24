@@ -135,6 +135,26 @@ fun_fact: "I once built an entire music platform in a weekend"
 
 ---
 
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=arahman621&cover_image=true&theme=spotify_embed&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=arahman621&redirect=true)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/ayman2002rahman?theme=radical&hide_border=true&show=graph)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
